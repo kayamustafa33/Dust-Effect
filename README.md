@@ -44,3 +44,6 @@ holder.itemView.setOnClickListener {
     // Deleting the item
     deleteItemFromList(holder.adapterPosition)
 }
+
+[untitled.webm](https://github.com/kayamustafa33/Dust-Effect/assets/89656051/8612528c-ef7a-409f-b01a-2114a338d73d)
+

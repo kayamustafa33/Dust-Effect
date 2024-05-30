@@ -49,7 +49,7 @@ afterEvaluate {
             create<MavenPublication>("maven"){
                 groupId = "com.github.kayamustafa33"
                 artifactId = "dust-effect"
-                version = "1.0"
+                version = "1.1"
             }
         }
     }

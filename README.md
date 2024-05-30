@@ -2,6 +2,9 @@
 
 Dust Effect is a visual effect library for Android applications. This library adds impressive animations to the user interface by making elements explode off the screen.
 
+## Example View
+    ![Dust Effect Example GIF](https://github.com/kayamustafa33/Dust-Effect/assets/89656051/a0c809a2-1004-45da-9460-68e43f530d55/dust_effect_example.gif)
+
 ## Usage
 
 1. **Adding Dependencies**
@@ -44,6 +47,3 @@ holder.itemView.setOnClickListener {
     // Deleting the item
     deleteItemFromList(holder.adapterPosition)
 }
-
-[untitled.webm](https://github.com/kayamustafa33/Dust-Effect/assets/89656051/8612528c-ef7a-409f-b01a-2114a338d73d)
-
